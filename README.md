@@ -1,5 +1,5 @@
-Hi, I’m **Sanjana**
-I’m interested in **microbiology** and **biostatistics** and exploring **small RNA seq data**
+Hi, I’m **Sanjana**\
+I’m interested in **microbiology** and **biostatistics** and exploring **small RNA seq data**\
 I’m looking to collaborate with projects on **plant-microbe interactions** and **genomics of microbes**
 
 <!---
